@@ -91,7 +91,7 @@ The project demonstrates how SQL can be used to answer business questions and su
 
 ### Year Analysis
 
-![Year Analysis](screenshots/06_country_analysis.png)
+![Year Analysis](screenshots/06_year_analysis.png)
 
 ---
 
