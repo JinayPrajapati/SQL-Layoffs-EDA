@@ -124,3 +124,15 @@ Through this project, I improved my understanding of:
 - Time-based analysis
 - Aggregate Functions
 - Business problem solving using SQL
+
+---
+
+## 📌 Key Insights
+
+- The technology industry experienced the highest number of layoffs.
+- A few companies contributed significantly to total layoffs.
+- Layoffs peaked during specific years and months.
+- Certain funding stages were more affected than others.
+- Rolling totals highlighted the cumulative impact of layoffs over time.
+
+---
