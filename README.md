@@ -65,7 +65,51 @@ The project demonstrates how SQL can be used to answer business questions and su
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+### Dataset Preview
+
+![Dataset Preview](screenshots/01_dataset_preview.png)
+
+---
+
+### Company Analysis
+
+![Company Analysis](screenshots/03_company_analysis.png)
+
+---
+
+### Industry Analysis
+
+![Industry Analysis](screenshots/04_industry_analysis.png)
+
+---
+
+### Country Analysis
+
+![Country Analysis](screenshots/05_country_analysis.png)
+
+---
+
+### Year Analysis
+
+![Year Analysis](screenshots/06_country_analysis.png)
+
+---
+
+### Monthly Trend
+
+![Monthly Trend](screenshots/07_monthly_trend.png)
+
+---
+
+### Rolling Total
+
+![Rolling Total](screenshots/08_rolling_total.png)
+
+---
+
+### Top 5 Companies Each Year
+
+![Top 5 Companies](screenshots/09_top5_companies.png)
 
 ---
 
